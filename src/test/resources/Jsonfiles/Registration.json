@@ -1,0 +1,18 @@
+{
+    "TC1": {
+        "firstname": "Devanshu",
+        "lastname": "Kumar",
+        "emailid": "devanshuk@gmail.com",
+        "age": 24,
+        "salary": 2700,
+        "Dept": "Dev"
+    },
+    "TC2": {
+        "firstname": "John",
+        "lastname": "Steve",
+        "emailid": "johnsteve@yahoo.com",
+        "age": 32,
+        "salary": 2000,
+        "Dept": "Market"
+    }
+}
